@@ -87,7 +87,7 @@ article {
     font-family: "CENTURY";
 }
 
-#l{
+#andrea{
     background-color: #2D2A2F;
     width: 350px;
     color: #ffffff;
@@ -95,8 +95,7 @@ article {
     font-family: "CENTURY";
 }
 
-#pixel
-{
+#pixel{
     background-color: #2D2A2F;
     width: 350px;
     color: #ffffff;
@@ -104,6 +103,9 @@ article {
     font-family: "CENTURY";
 }
 
+.sketchfab-embed-wrapper{
+    margin-top: 200px;
+}
 
 /*Ce sont toutes les lignes blanches visibles sur le site*/
 .ligne {
